@@ -1,0 +1,138 @@
+A continuación describo el Proyecto 1 a desarrollar en QGIS.
+
+• Crear un proyecto nuevo en QGIS con el
+nombre: ”Norteamérica”.
+
+
+• Crear tres vistas en un proyecto, con sus
+respectivas capas: para Canada, Estados Unidos y México.
+
+
+•Cambiar el nombre a cada una de las
+vistas por México, Estados Unidos y Canada respectivamente para que sean más
+claras estas capas.
+
+
+• Cargar todos los shapefiles contenidos
+de las carpetas de: Canada, Mexico, USA, con referencia a todos los datos
+espaciales que pertenecen a estos países.
+
+
+• Investigar como se realiza la
+personalización de cada tema y pintar cada una de las capas de datos con un
+color representativo y tipos de línea de acuerdo con la temática y simbología
+para cada tipo de objeto geográfico (para todas las vistas).
+
+
+• Probar las herramientas de análisis
+visual para cada vista (Pan, Zoom Out, Zoom In, Zoom Selected Feature y todas
+las variantes del Extent sobre todos los temas activos.
+• Encender y apagar todos los temas de las
+vistas (capas de información espacial).
+
+
+• Ubicar el orden de visualización de los
+elementos que componen a los temas en la tabla de contenido, es decir, poner de
+mapa base los polígonos y sobreponer visualmente los objetos geográficos del
+tipo línea y punto.
+
+
+• Abrir la tabla de atributos
+correspondiente al Shapefile de “States” (México). Observar los atributos.
+
+
+• Abrir las tablas de atributos
+correspondientes a los Shapefiles de States, Cities y Counties (Estados
+Unidos). Observar los atributos.
+
+
+• Abrir la tablas de atributos
+correspondientes a los Shapefiles de Provinces, Lakes y Rivers (Canada).
+Observar los atributos.
+
+
+• Llevar a cabo una personalización de cada
+uno de los países por identificador único, es decir, personalizar a cada uno de
+los países utilizando el identificador de estados. La personalización puede ser
+por colores o de alguna otra forma. Investigar todos los métodos de
+personalización.
+
+
+• Colocar los nombres de las principales
+ciudades de cada uno de estos tres países sobre el mapa. Para ello pueden usar
+algún criterio de selección que decidan ustedes con base en los atributos de
+cada tabla de los países.
+• Encender y apagar todos los temas de las
+vistas (capas de información espacial).
+
+
+• Ubicar el orden de visualización de los
+elementos que componen a los temas en la tabla de contenido, es decir, poner de
+mapa base los polígonos y sobreponer visualmente los objetos geográficos del
+tipo línea y punto.
+
+
+• Abrir la tabla de atributos
+correspondiente al Shapefile de “States” (México). Observar los atributos.
+
+
+• Abrir las tablas de atributos
+correspondientes a los Shapefiles de States, Cities y Counties (Estados
+Unidos). Observar los atributos.
+
+
+• Abrir la tablas de atributos
+correspondientes a los Shapefiles de Provinces, Lakes y Rivers (Canada).
+Observar los atributos.
+
+
+• Llevar a cabo una personalización de cada
+uno de los países por identificador único, es decir, personalizar a cada uno de
+los países utilizando el identificador de estados. La personalización puede ser
+por colores o de alguna otra forma. Investigar todos los métodos de
+personalización.
+
+
+• Colocar los nombres de las principales
+ciudades de cada uno de estos tres países sobre el mapa. Para ello pueden usar
+algún criterio de selección que decidan ustedes con base en los atributos de
+cada tabla de los países.
+• Realizar una consulta espacial para
+localizar la ciudad de Sonora y observar los atributos de esta instancia.
+Buscar cuál es la herramienta para ello.
+
+
+• Realizar una consulta espacial para
+localizar la Ciudad de México y observar los atributos de esta
+instancia. Buscar
+cuál es la herramienta para ello.
+
+
+• Realizar una consulta espacial para
+localizar la ciudad de Nueva York y observar los atributos de esta
+instancia. Buscar
+cuál es la herramienta para ello.
+
+
+• Realizar una consulta espacial para
+localizar la ciudad de Atlanta y observar los atributos de esta
+instancia. Buscar
+cuál es la herramienta para ello.
+• Medir la distancia que existe entre
+Sonora y México. Anotar
+los valores que se obtienen.
+
+
+• Medir la distancia que existe entre Nueva
+York y Atlanta. Anotar
+los valores que se obtienen.
+
+
+• Medir la distancia que existe entre Quebec y Montreal. Anotar
+los valores que se obtienen.
+
+
+• Utilizar la herramienta de Identify para
+conocer las características o información atributiva de los siguiente lugares:
+Aguascalientes, Sonora, Dallas, San Antonio, Miami, Nueva York, Montreal
+Quebec, Toronto. Reportar los valores.
